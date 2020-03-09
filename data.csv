@@ -1,0 +1,4 @@
+ingredientname,pairing1,affinity1,pairing2,affinity2,... //Rules for ingredient names: lowercase, singular, underscores instead of spaces
+almond,amaretto,0,butter,2,chocolate,2,coconut,1
+coconut,almond,1,chocolate,1,fish,1,papaya,0,sour_cream,0
+chile_pepper,black_bean,2,chocolate,0,papaya,0
